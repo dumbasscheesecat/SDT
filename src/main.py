@@ -8,9 +8,9 @@ class SignalDetection:
 	self.correctRejections = correctRejections
 
 	def hit_rate(self):
-	
+		return (self.hits) / (self.hits + self.misses)
 	def false_alarm_rate(self):
-	
+		return (self.falseAlarms) / (self.falseAlarms + self.correctRejections)
 	def d_prime(self):
 
 	def criterion(self):
