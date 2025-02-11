@@ -1,3 +1,8 @@
-# SDT
-# currently gpt is saying to run python3 -m src.TestSignalDetection from /repo/SDT. got the idea for import line and file structure from there. import line is edited in test file.
-
+# Signal Detection Theory (SDT) Project
+# This repository implements Signal Detection Theory (SDT) in Python, as part of a group assignment for our Object orientet programming group project in Cogs 106
+# Group members: 
+- Theo Benhabiles
+- Andrew Guo
+- Howard Ying
+- Joshua Schulz
+- Minh Nguyen
